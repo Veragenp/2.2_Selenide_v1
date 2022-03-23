@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/nansan77/2.2.-Selenide/actions/workflows/77gradle.yml/badge.svg)](https://github.com/nansan77/2.2.-Selenide/actions/workflows/77gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/etncpd7cj9sa7kxx?svg=true)](https://ci.appveyor.com/project/Veragenp/2-2-selenide-v1)
